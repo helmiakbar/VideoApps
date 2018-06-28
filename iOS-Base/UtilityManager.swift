@@ -2,8 +2,8 @@
 //  UtilityManager.swift
 //  iOS-Base
 //
-//  Created by Lutfi Azhar on 8/24/17.
-//  Copyright © 2017 Lutfi Azhar. All rights reserved.
+//  Created by Helmi Akbar on 8/24/17.
+//  Copyright © 2017 Helmi Akbar. All rights reserved.
 //
 
 import Foundation
