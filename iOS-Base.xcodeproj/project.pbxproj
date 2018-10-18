@@ -30,6 +30,11 @@
 		BADD889F21788A8800FB21C7 /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADD889E21788A8800FB21C7 /* VideoViewController.swift */; };
 		BADD88A121789D7E00FB21C7 /* VideoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADD88A021789D7E00FB21C7 /* VideoCollectionViewCell.swift */; };
 		BADD88A82178E99F00FB21C7 /* AdvertasingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BADD88A72178E99F00FB21C7 /* AdvertasingViewController.m */; };
+		BADD88AF21790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.41.png in Resources */ = {isa = PBXBuildFile; fileRef = BADD88AA21790DEB00FB21C7 /* Screen Shot 2018-10-19 at 01.38.41.png */; };
+		BADD88B021790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.47.png in Resources */ = {isa = PBXBuildFile; fileRef = BADD88AB21790DEB00FB21C7 /* Screen Shot 2018-10-19 at 01.38.47.png */; };
+		BADD88B121790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.15.png in Resources */ = {isa = PBXBuildFile; fileRef = BADD88AC21790DEB00FB21C7 /* Screen Shot 2018-10-19 at 01.38.15.png */; };
+		BADD88B221790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.34.png in Resources */ = {isa = PBXBuildFile; fileRef = BADD88AD21790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.34.png */; };
+		BADD88B321790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.06.png in Resources */ = {isa = PBXBuildFile; fileRef = BADD88AE21790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.06.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +88,11 @@
 		BADD88A52178E99F00FB21C7 /* iOS-Base-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iOS-Base-Bridging-Header.h"; sourceTree = "<group>"; };
 		BADD88A62178E99F00FB21C7 /* AdvertasingViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AdvertasingViewController.h; sourceTree = "<group>"; };
 		BADD88A72178E99F00FB21C7 /* AdvertasingViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AdvertasingViewController.m; sourceTree = "<group>"; };
+		BADD88AA21790DEB00FB21C7 /* Screen Shot 2018-10-19 at 01.38.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-10-19 at 01.38.41.png"; sourceTree = "<group>"; };
+		BADD88AB21790DEB00FB21C7 /* Screen Shot 2018-10-19 at 01.38.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-10-19 at 01.38.47.png"; sourceTree = "<group>"; };
+		BADD88AC21790DEB00FB21C7 /* Screen Shot 2018-10-19 at 01.38.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-10-19 at 01.38.15.png"; sourceTree = "<group>"; };
+		BADD88AD21790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-10-19 at 01.38.34.png"; sourceTree = "<group>"; };
+		BADD88AE21790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-10-19 at 01.38.06.png"; sourceTree = "<group>"; };
 		BECB762CD59BADDE32B9EEA2 /* Pods-iOS-BaseTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-BaseTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-BaseTests/Pods-iOS-BaseTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C18C34929DA00794F9B82FFD /* Pods-iOS-Base.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-Base.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-Base/Pods-iOS-Base.release.xcconfig"; sourceTree = "<group>"; };
 		C2474DD95F1822E536AD3A78 /* Pods-iOS-BaseTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-BaseTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-BaseTests/Pods-iOS-BaseTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -155,6 +165,7 @@
 		9B4E03711F4E9033000DC578 /* iOS-Base */ = {
 			isa = PBXGroup;
 			children = (
+				BADD88A921790DD700FB21C7 /* ScreenShoot */,
 				9BAE71361F834B3400310148 /* MVP Example */,
 				9B4E03A31F4E96D8000DC578 /* Model */,
 				9B4E03A11F4E96C7000DC578 /* Manager */,
@@ -268,6 +279,18 @@
 				BADD88A72178E99F00FB21C7 /* AdvertasingViewController.m */,
 			);
 			name = Advertasing;
+			sourceTree = "<group>";
+		};
+		BADD88A921790DD700FB21C7 /* ScreenShoot */ = {
+			isa = PBXGroup;
+			children = (
+				BADD88AE21790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.06.png */,
+				BADD88AC21790DEB00FB21C7 /* Screen Shot 2018-10-19 at 01.38.15.png */,
+				BADD88AD21790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.34.png */,
+				BADD88AA21790DEB00FB21C7 /* Screen Shot 2018-10-19 at 01.38.41.png */,
+				BADD88AB21790DEB00FB21C7 /* Screen Shot 2018-10-19 at 01.38.47.png */,
+			);
+			name = ScreenShoot;
 			sourceTree = "<group>";
 		};
 		FE055C707F91E426CDC06E27 /* Frameworks */ = {
@@ -392,8 +415,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BADD88B121790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.15.png in Resources */,
 				9B4E037D1F4E9033000DC578 /* LaunchScreen.storyboard in Resources */,
+				BADD88B321790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.06.png in Resources */,
+				BADD88B221790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.34.png in Resources */,
+				BADD88AF21790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.41.png in Resources */,
 				9B4E037A1F4E9033000DC578 /* Assets.xcassets in Resources */,
+				BADD88B021790DEC00FB21C7 /* Screen Shot 2018-10-19 at 01.38.47.png in Resources */,
 				9B4E03781F4E9033000DC578 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
