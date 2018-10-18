@@ -21,4 +21,13 @@ Clapping APE iOS App Base Project Template
 
 
 ### ScreenShoot ###
-
+* Home
+![alt text](https://github.com/helmiakbar/VideoApps/blob/master/iOS-Base/Screen%20Shot%202018-10-19%20at%2001.38.06.png)
+* Menu
+![alt text](https://github.com/helmiakbar/VideoApps/blob/master/iOS-Base/Screen%20Shot%202018-10-19%20at%2001.38.15.png)
+* VideoPlayer
+![alt text](https://github.com/helmiakbar/VideoApps/blob/master/iOS-Base/Screen%20Shot%202018-10-19%20at%2001.38.34.png)
+* embed logo advertisement
+![alt text](https://github.com/helmiakbar/VideoApps/blob/master/iOS-Base/Screen%20Shot%202018-10-19%20at%2001.38.41.png)
+* video advertisement
+![alt text](https://github.com/helmiakbar/VideoApps/blob/master/iOS-Base/Screen%20Shot%202018-10-19%20at%2001.38.47.png)
