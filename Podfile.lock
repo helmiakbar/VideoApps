@@ -15,6 +15,14 @@ DEPENDENCIES:
   - NVActivityIndicatorView (~> 3.6.0)
   - SideMenu
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Crashlytics
+    - Fabric
+    - NVActivityIndicatorView
+    - SideMenu
+
 EXTERNAL SOURCES:
   Kingfisher:
     :branch: master
@@ -35,4 +43,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 4805852bdb633d1078e70249b5b359efb1668a4e
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.5.3
