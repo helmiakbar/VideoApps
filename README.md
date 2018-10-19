@@ -1,6 +1,6 @@
 # README #
 
-Clapping APE iOS App Base Project Template
+Helmi Akbar iOS App Base Project Template
 
 ### SPECIFICATIONS ###
 
